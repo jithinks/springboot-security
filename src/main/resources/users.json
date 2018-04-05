@@ -1,0 +1,22 @@
+[
+  {
+    "login": "pivotalsoftware",
+    "id": 4247270,
+    "name": "Pivotal Software, Inc.",
+    "blog": "http://pivotal.io"
+  },
+
+  {
+    "login": "cloudfoundry",
+    "id": 621746,
+    "name": "Cloud Foundry",
+    "blog": "https://www.cloudfoundry.org/"
+  },
+
+  {
+    "login": "spring-projects",
+    "id": 317776,
+    "name": "Spring",
+    "blog": "http://spring.io/projects"
+  }
+]

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class UIController {
 
-    //http://localhost:8080/startup/
+    //http://localhost:1234/startup/
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String showLoginPage(ModelMap model) {
         model.put("name", "Jack");
