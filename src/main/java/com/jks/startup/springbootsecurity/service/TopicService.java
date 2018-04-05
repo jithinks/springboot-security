@@ -1,6 +1,6 @@
 package com.jks.startup.springbootsecurity.service;
 
-import com.jks.startup.springbootsecurity.Util.JsonUtil;
+import com.jks.startup.springbootsecurity.util.JsonUtil;
 import com.jks.startup.springbootsecurity.model.Topic;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Service;

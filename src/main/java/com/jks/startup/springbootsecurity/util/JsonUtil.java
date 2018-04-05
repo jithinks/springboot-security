@@ -1,4 +1,4 @@
-package com.jks.startup.springbootsecurity.Util;
+package com.jks.startup.springbootsecurity.util;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
